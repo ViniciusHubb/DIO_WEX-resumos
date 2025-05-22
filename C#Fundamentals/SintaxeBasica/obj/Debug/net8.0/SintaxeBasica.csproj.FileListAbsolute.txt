@@ -1,0 +1,15 @@
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\bin\Debug\net8.0\SintaxeBasica.exe
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\bin\Debug\net8.0\SintaxeBasica.deps.json
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\bin\Debug\net8.0\SintaxeBasica.runtimeconfig.json
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\bin\Debug\net8.0\SintaxeBasica.dll
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\bin\Debug\net8.0\SintaxeBasica.pdb
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\obj\Debug\net8.0\SintaxeBasica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\obj\Debug\net8.0\SintaxeBasica.AssemblyInfoInputs.cache
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\obj\Debug\net8.0\SintaxeBasica.AssemblyInfo.cs
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\obj\Debug\net8.0\SintaxeBasica.csproj.CoreCompileInputs.cache
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\obj\Debug\net8.0\SintaxeBasica.sourcelink.json
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\obj\Debug\net8.0\SintaxeBasica.dll
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\obj\Debug\net8.0\refint\SintaxeBasica.dll
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\obj\Debug\net8.0\SintaxeBasica.pdb
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\obj\Debug\net8.0\SintaxeBasica.genruntimeconfig.cache
+E:\Prog\Vs Code\Wex\DIO_WEX-resumos\C#Fundamentals\SintaxeBasica\obj\Debug\net8.0\ref\SintaxeBasica.dll
